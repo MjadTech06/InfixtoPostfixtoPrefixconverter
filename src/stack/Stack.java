@@ -7,7 +7,7 @@ package stack;
 
 /**
  *
- * @author MARK
+ * @author MjadTech06
  */
 import java.io.*;
 class Stack
